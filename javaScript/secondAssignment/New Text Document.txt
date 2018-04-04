@@ -1,0 +1,54 @@
+bubbleSort:
+
+- An Arrow function is used to bubble sort the given number in descending order.
+
+- used let to define vaible hosting and block scoping.
+
+- a temporary variable is used to swap the values based on the comparision in if condition.
+
+- in the array creation, two arrays are concatenated to form a single array using a spread operator.
+
+
+logIn:
+
+- An arrow function is used to check if the details passed, matches with data.
+
+- ...allUsers is the use of REST operator which converts the comma seperated values to array which helps in easily iterating over the values.
+
+- used for-of loop to iterate over the values in the array
+
+- name is a variable which store the full name if the email and password are correct.
+
+- checkLogin is the function name, which helps in checking the user details and outputs the results.
+
+- windows.prompt is used to take input od seasonNo and episodeNo
+bigBang:
+findDetails:
+
+- findDeatails is the name function which find the details for the given season number and episode number.
+
+- 'bigBang._embedded.episodes' moves the control inside of episode array, where y is a which iterates over the values with for-of loop.
+
+- y.season gives the season number which is compared with the input season number
+
+- if the season number matches the entire object is printed.
+
+episodeInfo:
+
+- episode info helps in finding the details based on array of episode ids.
+
+- first for of function iterates over json data to episode object
+
+- second for of loop iterates through array of ids.
+
+- if the current values matches the object is printed.
+
+- a SPREAD operator is used to convert the comma separated ids to array
+
+nameInfo:
+
+- nameInfo function finds the details of the episode if the name matches with the given name.
+
+- x.name is used to iterate to episode name where 'x' is the variable whcih stores the address of episodes.  
+
+ 

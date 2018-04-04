@@ -1,0 +1,255 @@
+{
+	"item_type": [{
+			"electronics_types": [{
+					"mobile": [{
+							"company": "apple",
+							"model": [
+
+								{
+									"name": "Iphone 6",
+									"price": 60000,
+									"noOfItemsPurchased": 1203,
+									"rating": 4.9,
+									"colourAvailable": [
+										"Rose Gold",
+										"Black",
+										"white"
+									]
+								},
+								{
+									"name": "Iphone 7",
+									"price": 70000,
+									"noOfItemsPurchased": 1500,
+									"rating": 4.9,
+									"colourAvailable": [
+										"Black",
+										"white"
+									]
+								},
+								{
+									"name": "Iphone 8",
+									"price": 80000,
+									"noOfItemsPurchased": 900,
+									"rating": 4.8,
+									"colourAvailable": [
+										"Black",
+										"white"
+									]
+								}
+							],
+							"companyRating": 4.8
+
+						},
+						{
+							"company": "Samsung",
+							"model": [{
+									"name": "Galaxy S7",
+									"price": 29990,
+									"noOfItemsPurchased": 999,
+									"rating": 4.4,
+									"colourAvailable": [
+										"Silver Titanium",
+										"Black"
+									]
+								},
+								{
+									"name": "C9 Pro",
+									"price": 29990,
+									"noOfItemsPurchased": 500,
+									"rating": 4.3,
+									"colourAvailable": [
+										"Gold",
+										"Black",
+										"Navy Blue"
+									],
+									"companyRating": 4.6
+
+								}
+
+							]
+						}
+
+					]
+				},
+				{
+
+					"Laptop": [{
+							"company": "Apple",
+							"model": [{
+									"name": "Mac Book core",
+									"price": 57000,
+									"processor": "i5",
+									"ram": "8 GB ",
+									"Operating System": "64 bit Mac Os",
+									"Memory": "128 GB"
+
+								},
+								{
+									"name": "Mac Book Pro",
+									"price": 128000,
+									"processpr": "i5",
+									"ram": "8 GB",
+									"Operating System": "64 bit Mac Os",
+									"Memory": "512GB"
+								}
+							]
+						},
+						{
+							"company": "Lenovo",
+							"model": [{
+									"name": "Think pad",
+									"price": "40000",
+									"processor": "i5",
+									"ram": "8 GB ",
+									"Operating System": "64 bit Windows Os",
+									"Memory": "1TB"
+								},
+								{
+									"name": "idea pad",
+									"price": 45000,
+									"processor": "i7",
+									"ram": "8 GB ",
+									"Operating System": "64 bit Windows Os",
+									"Memory": "1TB"
+								}
+							]
+						}
+
+
+					]
+				}
+			]
+		},
+		{
+			"TV": [{
+					"company": "sony",
+					"model": [{
+							"modelNo": "KLV24",
+							"rating": 4.3,
+							"price": 15000,
+							"discount": 1500
+
+						},
+						{
+							"modelNo": "KLV32",
+							"rating": 4.2,
+							"price": 34000,
+							"discount": 4500
+						}
+					],
+					"companyRating": 4.5
+				},
+				{
+					"company": "VU",
+					"model": [{
+							"modelNo": "H40D321",
+							"rating": 4.4,
+							"price": 19000,
+							"discount": 1500
+
+						},
+						{
+							"modelNo": "32D7545",
+							"rating": 4.3,
+							"price": 15000,
+							"discount": 1500
+						}
+					],
+					"companyRating": 5.0
+				}
+			]
+		},
+
+		{
+			"men": [{
+					"footwear": [{
+							"shoes": [{
+								"brand": [
+									"Nike",
+									"Reebok",
+									"puma",
+									"adidas"
+								]
+							}]
+						},
+						{
+							"flipflops": [{
+								"brand": [
+									"sparx",
+									"nike",
+									"puma"
+								]
+							}]
+						}
+					]
+				},
+				{
+					"clothing": [{
+						"Formal": [{
+							"brand": [
+								"LP",
+								"Tommy",
+								"wintex"
+							]
+						}]
+
+					}, {
+						"casual": [{
+							"brand": [
+								"mufti",
+								"killer"
+
+							]
+						}]
+					}]
+				}
+
+			]
+		},
+
+		{
+			"women": [{
+					"footwear": [{
+							"flats": [{
+								"brand": [
+									"myra",
+									"bata",
+									"jealous 21"
+
+								]
+							}]
+						},
+						{
+							"heels": [{
+								"jealous 21": [
+									"senorita",
+									"jade",
+									"adorn"
+								]
+							}]
+						}
+					]
+				},
+				{
+					"clothing": [{
+						"dressmaterials": [{
+							"brand": [
+								"LP",
+								"Tommy",
+								"wintex"
+							]
+						}]
+
+					}]
+
+				}
+
+			]
+		}
+	]
+
+
+
+
+
+}

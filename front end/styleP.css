@@ -1,0 +1,9 @@
+p::first-letter{
+	color:red;
+	font-size : 200%;
+}
+
+p::first-line{
+	color:blue;
+	font-variant:small-caps
+}
